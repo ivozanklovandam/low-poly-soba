@@ -25,5 +25,5 @@ Soba i modeli u njoj vizualno ciljaju na estetiku 2000-ih godina, ali geometrijs
 Sadržaj repozitorija
 
 soba.blend — glavni Blender file (teksture spakirane)
-3D.mp4 - kratki highlight video
+3DD.mp4 - kratki highlight video (480p rezolucija zbog Github restrikcije)
 README.md
